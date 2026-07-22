@@ -1,0 +1,11 @@
+@RetailInventory.Api_HostAddress = http://localhost:5058
+
+GET {{RetailInventory.Api_HostAddress}}/api/products
+Accept: application/json
+
+###
+
+GET {{RetailInventory.Api_HostAddress}}/api/products/reports/expensive?minimumPrice=10000
+Accept: application/json
+
+###
