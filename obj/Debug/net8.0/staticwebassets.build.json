@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mAiBdJXcKbvog7dmJGtHAoxO1+zHRdWSgS51lmBs0L0=",
+  "Source": "RetailInventory.Api",
+  "BasePath": "_content/RetailInventory.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
